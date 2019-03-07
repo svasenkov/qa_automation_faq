@@ -3,62 +3,58 @@
 НЕ ФОТКАЙТЕ СВОЙ ЕБУЧИЙ КОД С МОБИЛЫ
 
 ## С чего начать
+ - [Этикет эпохи мессенджеров: десять золотых правил общения в чате](goo.gl/QuTZpn) - обязательно к прочтению
 
-...
+## Обучение
+### Книги
+ - Дж. Уиттакер, Дж. Арбон, Дж. Каролло «Как тестируют в Google»
+ - Р. Фейнман, Р. Лейтон «Вы, конечно, шутите, мистер Фейнман!»
+ 
+### Туториалы и статьи
 
-## Редакторы и IDE
+### Курсы
+#### Платные (с сертфикацией)
+- [software-testing.ru/edu](http://software-testing.ru/edu/) - тренинги А.Баранцева
+- [learnqa.ru](http://learnqa.ru/) - тренинги А.Батырова, мобильная автоматизация 
 
+### Видео
+#### Youtube
+
+#### Стримы
+
+### Радио
+- [radio-qa.com](http://radio-qa.com/) - Radio QA
+- [soundcloud.com/qaguild](https://soundcloud.com/qaguild/) - QA Guild Podcast
+
+### Блоги
+
+### Telegram-чаты
+- [@qa_automation](https://t.me/qa_automation)
+- [@testing_in_python](https://t.me/testing_in_python)
+- [@js_for_testing](https://t.me/js_for_testing)
+- [@selenide_ru](https://t.me/selenide_ru) - Selenide на русском, java
+
+### Slack-чаты
+
+### Gitter-чаты
+- [gitter.im/allure-framework/allure-ru](https://gitter.im/allure-framework/allure-ru)
+
+### Полезные ресурсы
+ - [Google.com](https://google.com/)
+ - [StackOverflow](https://stackoverflow.com/)
+ - [GitHub Student Developer Pack](https://education.github.com/pack)
+ - [Habr](https://habr.com/)
+ - [Toster](https://toster.ru/)
+
+
+## Инструменты
+### Редакторы и IDE
  - [JetBrains IDE](https://www.jetbrains.com/products.html) ([бесплатная лицензия для студентов](http://jetbrains.ru/students/classroom-licenses/free-classroom-licenses/))
  - [Visual Studio Code](https://code.visualstudio.com/)
  - [Atom](https://atom.io/)
  - [Sublime Text](https://www.sublimetext.com/)
  - [Eclipse](https://www.eclipse.org/downloads/)
  - [VIM](https://www.vim.org/)
-
-
-## Книги
- - Дж. Уиттакер, Дж. Арбон, Дж. Каролло «Как тестируют в Google»
- - Р. Фейнман, Р. Лейтон «Вы, конечно, шутите, мистер Фейнман!»
-
-
-## Туториалы и статьи
-
-### На английском
-
-### На русском
-
-## Полезные ресурсы
- 
-### На английском
- - [Google.com](https://google.com/)
- - [StackOverflow](https://stackoverflow.com/)
- - [GitHub Student Developer Pack](https://education.github.com/pack)
-
-### На русском
- - [Habr](https://habr.com/hub/)
- - [Toster](https://toster.ru/tag/)
- - [@py_digest](https://t.me/py_digest)
-
-## Видео
-
-### Youtube: 
-
-### Стримы
-
-## Курсы
-
-### Задачи
-
-
-
-### Гайд по работе
-
-## Чаты для обсуждения и взаимопомощи
-
-### Telegram
-
-
-### Slack
 
 ## Отправка фрагментов кода в чат
 
